@@ -1,0 +1,25 @@
+
+
+
+.header-myCloud {
+background-color: black;
+color:white;
+}
+span {
+    color: rgb(29, 203, 226);
+}
+
+h2 {
+background-color: blueviolet;
+color: white;
+text-align: center;
+font-style: italic;
+font-weight: light;
+}
+h3{
+text-decoration: underline;
+text-align: right;
+background-color: rgb(125, 202, 221);
+font-weight: normal;
+color: rgb(36, 84, 146); 
+}
